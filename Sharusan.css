@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://cdn2.hubspot.net/hubfs/202339/canvas/images/parallax/Website-Design-Background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;}
+
+
+h1{color:white;
+  font-family: verdana;
+  font-size: 50px;
+  margin-left: 50px;
+  padding-top: 80px;
+}
+
+
+
+div{
+  width:auto;
+  height:300px;
+  text-align:left;
+}
